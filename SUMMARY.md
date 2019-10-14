@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to LILIN Marketing Portal](README.md)
+* [Discuss platform](discuss-platform.md)
 
 ## Expo & Events <a id="files"></a>
 
