@@ -1,9 +1,5 @@
 # Product Photos
 
-{% embed url="https://www.dropbox.com/sh/8p8hl0o7jhwwba3/AAAdhPRL4EdiconcOGYpZx23a?dl=0" %}
-
-
-
 {% embed url="https://www.dropbox.com/sh/f4ew3qu72ajzmt3/AACcAVmIE-H8K8YDMg2aQQ9\_a?dl=0" %}
 
 {% embed url="https://www.dropbox.com/sh/3l8daddmcu88g83/AABtow5gRqF8nFZef3Wdh-9Sa?dl=0" %}

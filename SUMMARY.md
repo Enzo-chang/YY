@@ -11,6 +11,7 @@
 
 ## Solutions <a id="solutions-1"></a>
 
+* [Untitled](solutions-1/untitled.md)
 * [Aida](solutions-1/aida.md)
 * [LILIN Overview](solutions-1/2018-overview.md)
 * [PR](solutions-1/pr.md)
@@ -48,7 +49,7 @@
 * [Application Note](product-information/application-note.md)
 * [Engineering Change Notification](product-information/engineering-change-notification.md)
 * [ONVIF](product-information/onvif.md)
-* [Catalogue](product-information/catalogue.md)
+* [Catalogue & Brochure](product-information/catalogue.md)
 * [Release Note](product-information/release-note.md)
 * [Cybersecurity](product-information/cybersecurity.md)
 * [Product Photos](product-information/product-photos.md)
